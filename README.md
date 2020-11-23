@@ -4,7 +4,4 @@ Este repositorio es un simple trabajo que presenta varias técnicas de series de
 
 
 Los métodos usados son:
--Simple smoothing
--Naive
--Holt linear
--Moving averages
+-Simple smoothing, Naive, Holt linear y Moving averages.
