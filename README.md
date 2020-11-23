@@ -1,6 +1,6 @@
-# Técnicas de series de tiempo implementadas en los precios del petroleo Mexicano
+# Técnicas de series de tiempo implementadas en los precios del petróleo Mexicano
 
-Este repositorio es un simple trabajo que presenta varias técnicas de series de tiempo aplicadas a los precios del petroleo en México y se puede considerar puramente de práctica.
+Este repositorio es un simple trabajo que presenta varias técnicas de series de tiempo aplicadas a los precios del petróleo en México y se puede considerar un trabajo meramente de práctica. 
 
 
 Los métodos usados son:
